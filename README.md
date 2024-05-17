@@ -7,10 +7,14 @@ In order of relevance to the community at this time.
   - <a href="https://https://github.com/Broge-Commmunity" target="_blank">https://https://github.com/Broge-Commmunity</a>
   - <a href="https://git.broge.meme" target="_blank">https://git.broge.meme</a>
   - <a href="https://git.broge.blue" target="_blank">https://git.broge.blue</a>
+- Website (Code in development)
+  - <a href="https://github.com/Broge-Commmunity/broge-website" target="_blank">https://github.com/Broge-Commmunity/broge-website</a>
 - Community Plan
   - <a href="https://https://trello.com/b/U4H5u08c/broge-community-plan" target="_blank">https://https://trello.com/b/U4H5u08c/broge-community-plan</a>
   - <a href="https://plan.broge.meme" target="_blank">https://plan.broge.meme</a>
   - <a href="https://plan.broge.blue" target="_blank">https://plan.broge.blue</a>
+- Documentation Folder on Google Drive
+  - <a href="https://drive.google.com/drive/folders/1nSZP9dmpvt8QqtyBBwWwScXxHQgdYG-c?usp=sharing" target="_blank">https://drive.google.com/drive/folders/1nSZP9dmpvt8QqtyBBwWwScXxHQgdYG-c?usp=sharing</a>
 - Telegram
   - <a href="https://t.me/brogeportal" target="_blank">https://t.me/brogeportal</a>
   - <a href="https://t.broge.meme">https://t.broge.meme</a>
